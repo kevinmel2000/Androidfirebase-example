@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "769016599322",
+    "firebase_url": "https://sukanyamotor-8b0ff.firebaseio.com",
+    "project_id": "sukanyamotor-8b0ff",
+    "storage_bucket": "sukanyamotor-8b0ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769016599322:android:9ec1af9c589731a9",
+        "android_client_info": {
+          "package_name": "br.edu.ifpb.ads.ajudemaisexp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769016599322-fribva0vva1p1b4h5688k5f100h6144t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTj6FhIlzZVLnFZ1ms_Gxpc3L9QGRqSSE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769016599322:android:c5522c1525bfa9d9",
+        "android_client_info": {
+          "package_name": "com.androidmads.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769016599322-fribva0vva1p1b4h5688k5f100h6144t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTj6FhIlzZVLnFZ1ms_Gxpc3L9QGRqSSE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769016599322:android:b5e681e39ee8f502",
+        "android_client_info": {
+          "package_name": "com.example.ezeelinkindonesia.fcmezeepay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769016599322-fribva0vva1p1b4h5688k5f100h6144t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTj6FhIlzZVLnFZ1ms_Gxpc3L9QGRqSSE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
